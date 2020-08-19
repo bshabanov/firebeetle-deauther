@@ -53,9 +53,9 @@
     Adjust the pins to match your setup
     Comment out the buttons you don't use.
    = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = */
-#define BUTTON_UP D9 //D6
-#define BUTTON_DOWN D2 //D7
-#define BUTTON_A D0 //D9
+#define BUTTON_UP 12 //D6
+#define BUTTON_DOWN 13 //D7
+#define BUTTON_A 3 //D9
 
 //#define BUTTON_LEFT 12
 //#define BUTTON_RIGHT 13
